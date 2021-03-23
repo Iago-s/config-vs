@@ -1,0 +1,21 @@
+{
+    "tabnine.experimentalAutoImports": true,
+    
+    "workbench.colorTheme": "SynthWave '84",
+    "workbench.iconTheme": "material-icon-theme",
+
+    "terminal.integrated.fontSize": 12,
+
+    "editor.tabSize": 2,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontSize": 12,
+    "editor.fontLigatures": true,
+    "editor.rulers": [80, 120],
+    "editor.suggestSelection": "first",
+    "editor.minimap.maxColumn": 80,
+    "editor.renderWhitespace": "all",
+    "editor.cursorBlinking": "expand",
+    "editor.cursorWidth": 2,
+
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+}
